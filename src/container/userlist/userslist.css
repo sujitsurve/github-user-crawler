@@ -1,0 +1,13 @@
+.usersListContainer{
+    padding-top : 5%;
+    margin: 1%;
+}
+.usersListContainer button{
+    margin-top: 10px;
+    margin-left: 15px;
+}
+@media screen and (max-width: 600px) {
+    .usersListContainer{
+        padding-top : 25%;
+    }
+  }

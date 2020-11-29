@@ -1,0 +1,24 @@
+.repoName{
+    color:#0366d6;
+    font-size: 20px;
+    font-weight: 500;
+}
+.repoDiv{
+    padding-bottom: 10px;
+    border-bottom: 2px solid #eaecef;
+    margin: 15px;
+}
+.repoDesc{
+    color: #586069;
+    font-size: 14px;
+}
+.forkIcon{
+    font-size: 16px;
+}
+.forkCount{
+    font-size: 14px;
+}
+.fork{
+    margin-top: 15px;
+    margin-left: 10px;
+}

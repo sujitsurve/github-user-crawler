@@ -1,0 +1,41 @@
+.selectedUsersContainer .userName{
+    font-size: 25px;
+    color: #4e4545;
+    padding: 10px;
+    margin-left: 12px;
+    font-weight: 500;
+}
+.followers{
+    color: #4e4545;
+    font-size:14px;
+    padding: 5px;
+}
+.selectedUsersContainer{
+    padding-top : 5%;
+    display: flex;
+    flex-direction: row;
+}
+.userRepository{
+    width: 100%;
+}
+.userProfileDetails{
+    padding: 20px;
+}
+.userProfileDetails .userProfile{
+    border-bottom: 2px solid #eaecef;
+}
+.noRepo{
+    font-size: 25px;
+    color: #586069;
+    width: 50%;
+    margin: auto;
+    padding-top: 15%;
+    font-family: cursive;
+    text-shadow: 1px 1px 2px;
+}
+@media screen and (max-width: 600px) {
+    .selectedUsersContainer{
+        flex-direction: column;
+        padding-top : 25%;
+  }
+}
